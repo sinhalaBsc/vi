@@ -1,0 +1,17 @@
+how to comment and uncomment multiple lines
+https://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim
+
+to comment
+ press [Esc] and get cmd mode.
+ press [Ctr + v ] to get line select.
+ press [n ,j] or [jj..j] to select line .
+ and press [Shift + i] to get insert mode.
+ insert the comment symbole eg- // 
+ again press[Esc] and wait one second.
+ 
+to uncomment (* only selected characters will remove)
+ press [Esc] and get cmd mode.
+ press [Ctr + v ] to get line select on the comment symbole .
+ press [n , j] or [jj..j] to select line on the comment symbole.
+ press [x] to remove comment symbole.
+ (you can use arrow keys to increase selection line horizontally.)
