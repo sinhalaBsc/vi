@@ -15,3 +15,41 @@ to uncomment (* only selected characters will remove)
  press [n , j] or [jj..j] to select line on the comment symbole.
  press [x] to remove comment symbole.
  (you can use arrow keys to increase selection line horizontally.)
+
+
+line ඉඩ ලබා ගැනීම.
+line එකක ඕනෑම ස්ථානයක සිට පහලට අලුත් line එකකට ඉඩ ලබා ගැනීමට .
+[ o ]
+line එකක ඕනෑම ස්ථානයක සිට ඉහලට අලුත් line එකකට ඉඩ ලබා ගැනීමට .
+[ O ]
+
+insert ආරම්භ කිරීම.
+cursor එකට පසු ස්ථානයේ සිට insert කිරීම ආරම්භ කිරීමට.
+[ a ] 
+cursor එකට පෙර ස්ථානයේ සිට insert කිරීම ආරම්භ කිරීමට.
+[ i ] 
+line  එකේ අග ස්ථානයේ සිට insert කිරීම ආරම්භ කිරීමට.
+[ A ] 
+line  එකේ මුල ස්ථානයේ සිට insert කිරීම ආරම්භ කිරීමට.
+[ I ] 
+
+under the cursor
+cursor එක යට ඇති එක් සංකේතයක් replace කිරීමට.
+[ r ]
+cursor එක යට ඇති එක් සංකේතයක් delete  කිරීමට.
+[ x ]
+
+cursor එහා මෙහා රැගෙන යාම.
+cursor එක මත ඇති වචනයේ අගට cursor එක ගෙන යාම.
+[ e ]
+cursor එක මත ඇති වචනයේ මුලට cursor එක ගෙන යාම.  
+[ b ]
+cursor එක මත ඇති වචනයේ සිට ඊළඟ වචනයේ මුලට cursor එක ගෙන යාම. 
+[ w ]
+cursor එක මත ඇති වචන පේලියේ හිස් ඉඩ අගට cursor එක ගෙන යාම.
+[ E ]
+cursor එක මත ඇති වචන පේලියේ හිස් ඉඩ මුලට cursor එක ගෙන යාම.  
+[ B ]
+cursor එක මත ඇති වචන පේලියේ හිස් ඉඩ ඇති ඊළඟ වචනයේ මුලට cursor එක ගෙන යාම. 
+[ W ]
+
