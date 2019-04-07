@@ -16,6 +16,15 @@ to uncomment (* only selected characters will remove)
  press [x] to remove comment symbole.
  (you can use arrow keys to increase selection line horizontally.)
 
+තවත් ක්‍රමය 
+මේ ක්‍රමයට ඉස්සෙල්ලම terminal එකට අංක ඇතුලත් කරගත යුතුය. මොකද අපි මේ විධානය දෙන්නේ පේලි පරාසය දෙන්නේ අංක වලින් 
+විධානය 
+:5,10s/^/*/   
+විස්තරය 
+:පේලිය පටන් ගන්නා අංකය ,පේලිය අවසන් වන අංකය සොයන්න/පේලියේ මුලට යන්න/සංඛේතය 
+s - සොයන්න
+මේ ක්‍රමය ආධාරයෙන් වෙනස් Editor වල Tab key  එකෙන් කෙරෙන කාර්යය කරගත හැකිය.
+
 
 line ඉඩ ලබා ගැනීම.
 line එකක ඕනෑම ස්ථානයක සිට පහලට අලුත් line එකකට ඉඩ ලබා ගැනීමට .
